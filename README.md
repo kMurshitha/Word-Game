@@ -39,7 +39,7 @@ Before you can play the Word Game, make sure you have Python 3.x installed on yo
 1. Clone the Word Game repository to your local machine:
 
    ```shell
-   git clone https://github.com/yourusername/word-game.git
+   git clone https://github.com/kMurshitha/Word-Game.git
    ```
 
 2. Navigate to the project directory:
